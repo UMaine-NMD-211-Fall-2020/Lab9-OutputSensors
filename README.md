@@ -44,40 +44,51 @@ Complete your lantern design.
 2. Create something else, using at minimum the other input and output you explored. Show code. Show electrical diagram. Use this in something "creative" and well displayed. It should not be an open circuit board. Wires should be hidden, everything should be nicely packaged physically, as well as useable, and electrically safe.  
 
 ## Useful Resources
+### General Tutorials 
+A set of well made, but long, [tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) on lots of things Arduino
 ### Output Sensors to choose from
 #### Servo Motor SG90
--[Written Details]()
--[Video]()
+Creates spinning motion continuously in either direction
+- [Written Details](https://www.arduinoforbeginners.com/sg90/)
+- [Video](https://youtu.be/SfmHNb5QAzc)
 #### Stepper Motor & ULN2003 Stepper Motor Driver Module
--[Written Details]()
--[Video]()
+Use this motor when you want to move steps / a precise incremenent in either direction, and hold that posisiton
+- [Written Details](https://www.tutorialspoint.com/arduino/arduino_stepper_motor.htm)
+- [Video](https://www.youtube.com/watch?v=4iRvjBwAzrM)
 #### MAX7219 Module
--[Written Details]()
--[Video]()
+8x8 LED lights
+- [Written Details](https://www.makerguides.com/max7219-led-dot-matrix-display-arduino-tutorial/)
+- [Video](https://youtu.be/yBIXeHHAhrI)
 #### 1 Digit 7-Segment Display 
--[Written Details]()
--[Video]()
+Display 1 number or letter
+- [Written Details](https://osoyoo.com/2017/07/18/arduino-lesson-one-digit-7-segment-led-display/)
+- [Video](https://youtu.be/_j-VOYbbvVg)
 #### 4 Digit 7-Segment Display 
--[Written Details]()
--[Video]()
-#### L293D (? Input)
--[Written Details]()
--[Video]()
-#### 74HC595 IC (? Input)
--[Written Details]()
--[Video]()
+Display 4 numbers/letters
+- [Written Details](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
+- [Video](https://youtu.be/256VQ6eVNng)
+#### L293D (Control Multiple Motor Outputs)
+- [Written Details](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/)
+- [Video](https://youtu.be/HW1VTOLAXgE)
+#### 74HC595 IC (Control Many Outputs/Inputs - stick to outputs today)
+- [Written Details](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
+- [Video](https://youtu.be/bqfPZXEuyuc)
 #### Active Buzzer
--[Written Details]()
--[Video]()
+built-in oscillating source creating sound output (Analog / pwm pins)
+- [Written Details](https://www.instructables.com/ACTIVE-BUZZER-WITH-ARDUINO-UNO-R3)
+- [Video](https://youtu.be/gRVwwB3ITgM)
 #### Passive Buzzer Buzzer
--[Written Details]()
--[Video]()
+built-in square wave sound output (digital pins)
+- [Written Details](https://bgsu.instructure.com/courses/1157282/pages/tutorial-passive-buzzer)
+- [Video](https://youtu.be/gRVwwB3ITgM)
 #### 5V Relay
--[Written Details]()
--[Video]()
+Turn on other electrical device using Arduino. MUST BE DONE AT HOME. 
+- [Written Details](https://arduinogetstarted.com/tutorials/arduino-relay)
+- [Video](https://youtu.be/58XWVDnB7Ss)
 #### Fan Blade and 3-6V motor
--[Written Details]()
--[Video]()
+Rotating motor good for powering fan - controlled by power, not by control wire
+- [Written Details](https://create.arduino.cc/projecthub/ingo-lohs/first-test-super-starterkit-from-elegoo-motor-3-6v-dc-5b199d)
+- [Video](https://youtu.be/og_9AzpNd6c)
 
 
 ## How to Submit
