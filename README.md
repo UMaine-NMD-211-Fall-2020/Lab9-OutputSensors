@@ -45,7 +45,8 @@ Complete your lantern design.
 
 ## Useful Resources
 ### General Tutorials 
-A set of well made, but long, [tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) on lots of things Arduino
+- A set of well made, but long, [tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) on lots of things Arduino
+- [Capacitive touch Arduino Keyboard Piano](https://www.instructables.com/Capacitive-Touch-Arduino-Keyboard-Piano/) a.k.a the fruit piano, [Piano](https://mrscrewdriver-blog.blogspot.com/2019/12/how-to-make-piano-with-buzzer-arduino.html) with buzzer using buttons, [Fruit Piano](https://www.instructables.com/Quick-Fruit-Piano/) hooked up to computer (reference for next week)
 ### Output Sensors to choose from
 #### Servo Motor SG90
 Creates spinning motion continuously in either direction
