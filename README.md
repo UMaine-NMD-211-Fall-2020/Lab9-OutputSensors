@@ -45,7 +45,40 @@ Complete your lantern design.
 
 ## Useful Resources
 ### Output Sensors to choose from
-#### 
+#### Servo Motor SG90
+-[Written Details]()
+-[Video]()
+#### Stepper Motor & ULN2003 Stepper Motor Driver Module
+-[Written Details]()
+-[Video]()
+#### MAX7219 Module
+-[Written Details]()
+-[Video]()
+#### 1 Digit 7-Segment Display 
+-[Written Details]()
+-[Video]()
+#### 4 Digit 7-Segment Display 
+-[Written Details]()
+-[Video]()
+#### L293D (? Input)
+-[Written Details]()
+-[Video]()
+#### 74HC595 IC (? Input)
+-[Written Details]()
+-[Video]()
+#### Active Buzzer
+-[Written Details]()
+-[Video]()
+#### Passive Buzzer Buzzer
+-[Written Details]()
+-[Video]()
+#### 5V Relay
+-[Written Details]()
+-[Video]()
+#### Fan Blade and 3-6V motor
+-[Written Details]()
+-[Video]()
+
 
 ## How to Submit
 Submit via Google Drive or by making a pull request and linking to your folder here.
