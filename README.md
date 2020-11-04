@@ -40,7 +40,7 @@ Complete your lantern design.
 1. Use all 4 sensors (2 outputs, 2 inputs) with your lanter. Show code. Show electrical diagram. Put all sensors together in the system. Build the lantern. Bring in the lantern. 
 2. Document any difficulties / issues.  If there were none, say so. 
 ### 4, version B: Lantern & Other
-1. Build your lantern, using one input & output pair of sensors. Show code. Show electrical diagram. Build the lantern. Bring in the lantern. 
+1. Build your lantern, using one input & output pair of sensors - ones you did not use in your lantern design. Show code. Show electrical diagram. Build the lantern. Bring in the lantern. 
 2. Create something else, using at minimum the other input and output you explored. Show code. Show electrical diagram. Use this in something "creative" and well displayed. It should not be an open circuit board. Wires should be hidden, everything should be nicely packaged physically, as well as useable, and electrically safe. Make a proposal w/ diagram/sketch before making it, and run it by me first. 
 
 ## Useful Resources
