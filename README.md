@@ -69,9 +69,11 @@ Display 4 numbers/letters
 - [Written Details](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
 - [Video](https://youtu.be/256VQ6eVNng)
 #### L293D (Control Multiple Motor Outputs)
+If you want to use multiple motors at the same time (think controlling multiple arms on a robot) you would use this. 
 - [Written Details](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/)
 - [Video](https://youtu.be/HW1VTOLAXgE)
 #### 74HC595 IC (Control Many Outputs/Inputs - stick to outputs today)
+If you want to use many inputs/outputs at the same time, use this. 
 - [Written Details](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
 - [Video](https://youtu.be/bqfPZXEuyuc)
 #### Active Buzzer
