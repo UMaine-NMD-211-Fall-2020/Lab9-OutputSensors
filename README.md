@@ -97,3 +97,4 @@ Rotating motor good for powering fan - controlled by power, not by control wire
 ## How to Submit
 Submit via Google Drive or by making a pull request and linking to your folder here.
 - [FirstName LastName](www.example.com)
+- [Elijah Story](https://github.com/ElijahStory/Lab9-Elijah-Story)
